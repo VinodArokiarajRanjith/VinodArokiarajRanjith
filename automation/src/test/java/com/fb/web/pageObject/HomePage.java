@@ -32,7 +32,6 @@ public class HomePage extends Utilities{
 		PageFactory.initElements(Utilities.driver, this);
 	}
 
-
 	Webcommonmethods webcommon = new Webcommonmethods(driver);
 
 	@FindBy(id = "img_moesLogo")
