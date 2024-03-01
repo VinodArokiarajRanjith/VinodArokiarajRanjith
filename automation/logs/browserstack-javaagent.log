@@ -1,0 +1,574 @@
+15:08:22.770 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+15:08:22.773 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+15:08:23.039 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/aravindhan.annamalai/Documents/GitHub/gx-frontends/gx-mobile/automation/browserstack.yml
+15:08:23.122 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:08:23.818 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:08:27.083 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:08:55.701 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:08:55.706 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 6.8.1 which is lower than the minimum version we currently support (7.3.0).
+15:09:05.098 [Thread-1] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/uwkxvsabr0ljho7xw2aohnujaomvha83rgnah1w8 to view build report, insights, and many more debugging information all at one place!
+
+15:09:07.882 [Thread-4] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+15:10:43.948 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 3.141.59
+15:10:43.951 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 7.0.0
+15:10:44.208 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/aravindhan.annamalai/Documents/GitHub/gx-frontends/gx-mobile/automation/browserstack.yml
+15:10:44.284 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:10:44.977 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:10:48.010 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:10:53.735 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:10:53.741 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 6.8.1 which is lower than the minimum version we currently support (7.3.0).
+15:11:02.909 [Thread-1] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/3gmaohsvjvpfio7wjb8vwh0izhl6rmcyavrbsnu0 to view build report, insights, and many more debugging information all at one place!
+
+15:11:05.723 [Thread-4] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+15:58:43.579 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+15:58:43.614 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:47:56.971 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+18:47:57.069 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+18:47:57.164 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+18:47:57.621 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+18:47:57.803 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+18:47:59.164 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+18:48:30.239 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+18:48:30.304 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+18:48:30.375 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+18:48:30.777 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+18:48:30.937 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+18:48:32.317 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+18:49:03.732 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+18:49:03.814 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+18:49:03.915 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+18:49:04.322 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+18:49:04.496 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+18:49:05.827 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+15:25:34.313 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+15:25:34.341 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+16:44:24.821 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+16:44:24.935 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+16:44:25.070 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+16:44:25.669 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+16:44:25.884 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+16:44:27.390 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+16:45:02.609 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+16:45:02.725 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+16:45:02.891 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+16:45:03.546 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+16:45:03.799 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+16:45:05.257 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+16:46:56.807 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+16:46:56.970 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+16:46:57.157 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+16:46:57.846 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+16:46:58.152 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+16:47:07.610 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+16:47:42.286 [main] INFO  c.f.p.DeliveryOrderDetailPages - The Geo Location Permission Modal is displayed
+16:47:47.876 [main] INFO  c.f.p.DeliveryOrderDetailPages - While Using The App option is selected
+16:49:18.707 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+16:49:18.872 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+16:49:19.061 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+16:49:19.749 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+16:49:19.946 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+16:49:21.347 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+16:49:29.569 [main] INFO  c.f.p.DeliveryOrderDetailPages - The Geo Location Permission Modal is displayed
+16:49:31.027 [main] INFO  c.f.p.DeliveryOrderDetailPages - While Using The App option is selected
+16:49:42.269 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time Modal is displayed
+16:49:42.451 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time option is selected
+16:49:45.962 [main] INFO  c.f.p.DeliveryOrderDetailPages - Sorry You Are Out Of The Delivery Range Modal is diplayed
+16:49:46.110 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Change To PickUp Button is Displayed
+16:49:46.281 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Try Another Address Button is Displayed
+16:49:47.510 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+16:49:47.810 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Find My Location Buttion is Displayed
+16:50:21.981 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+16:50:22.087 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+16:50:22.224 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+16:50:23.024 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+16:50:23.181 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+16:50:24.556 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+16:52:05.341 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+16:52:05.498 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+16:52:05.625 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+16:52:06.328 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+16:52:06.568 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+16:52:08.077 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+16:52:46.340 [main] INFO  c.f.p.DeliveryOrderDetailPages - DOES THIS ADDRESS LOOK CORRECT? is Displayed
+16:54:28.812 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+16:54:28.955 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+16:54:29.146 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+16:54:29.793 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+16:54:30.039 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+16:54:31.530 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+16:54:44.975 [main] INFO  c.f.p.DeliveryOrderDetailPages - DOES THIS ADDRESS LOOK CORRECT? is not Displayed
+16:55:33.531 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+16:55:33.623 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+16:55:33.741 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+16:55:34.427 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+16:55:34.659 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+16:55:36.186 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+16:55:52.057 [main] INFO  c.f.p.DeliveryOrderDetailPages - DOES THIS ADDRESS LOOK CORRECT? is not Displayed
+17:25:36.376 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:25:36.512 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:25:36.679 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:25:37.438 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:25:37.668 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:25:39.156 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+17:25:52.942 [main] INFO  c.f.p.DeliveryOrderDetailPages - DOES THIS ADDRESS LOOK CORRECT? is not Displayed
+17:26:05.889 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:26:06.015 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:26:06.152 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:26:06.932 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:26:07.172 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:26:08.558 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+17:26:22.623 [main] INFO  c.f.p.DeliveryOrderDetailPages - DOES THIS ADDRESS LOOK CORRECT? is not Displayed
+17:26:35.292 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:26:35.359 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:26:35.479 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:26:36.118 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:26:36.427 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:26:37.949 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+17:26:38.097 [main] INFO  c.f.p.DeliveryOrderDetailPages - The Geo Location Permission Modal is displayed
+17:26:38.278 [main] INFO  c.f.p.DeliveryOrderDetailPages - While Using The App option is selected
+17:26:39.582 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time Modal is displayed
+17:26:39.775 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time option is selected
+17:26:43.479 [main] INFO  c.f.p.DeliveryOrderDetailPages - Sorry You Are Out Of The Delivery Range Modal is diplayed
+17:26:43.658 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Change To PickUp Button is Displayed
+17:26:43.822 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Try Another Address Button is Displayed
+17:26:45.009 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+17:26:45.207 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Find My Location Buttion is Displayed
+17:39:41.331 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:39:41.430 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:39:41.566 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:39:42.220 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:39:42.424 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:39:43.856 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+17:40:00.544 [main] INFO  c.f.p.DeliveryOrderDetailPages - DOES THIS ADDRESS LOOK CORRECT? is not Displayed
+17:40:12.910 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:40:13.016 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:40:13.162 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:40:13.819 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:40:14.072 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:40:15.496 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+17:40:28.931 [main] INFO  c.f.p.DeliveryOrderDetailPages - DOES THIS ADDRESS LOOK CORRECT? is not Displayed
+17:40:41.479 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:40:41.633 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:40:41.815 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:40:42.447 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:40:42.682 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:40:44.083 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+17:40:44.191 [main] INFO  c.f.p.DeliveryOrderDetailPages - The Geo Location Permission Modal is displayed
+17:40:44.320 [main] INFO  c.f.p.DeliveryOrderDetailPages - While Using The App option is selected
+17:40:45.608 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time Modal is displayed
+17:40:45.773 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time option is selected
+17:40:49.349 [main] INFO  c.f.p.DeliveryOrderDetailPages - Sorry You Are Out Of The Delivery Range Modal is diplayed
+17:40:49.519 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Change To PickUp Button is Displayed
+17:40:49.647 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Try Another Address Button is Displayed
+17:40:50.739 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+17:40:50.927 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Find My Location Buttion is Displayed
+18:33:29.389 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+18:33:29.483 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+18:33:29.628 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+18:33:30.201 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+18:33:30.477 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+18:33:31.880 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+18:34:13.135 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+18:34:13.244 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+18:34:13.384 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+18:34:14.124 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+18:34:14.401 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+18:34:15.825 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+18:34:59.774 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+18:34:59.905 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+18:35:00.069 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+18:35:00.754 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+18:35:01.041 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+18:35:02.452 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+18:35:18.113 [main] INFO  c.f.p.DeliveryOrderDetailPages - DOES THIS ADDRESS LOOK CORRECT? is not Displayed
+18:35:30.820 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+18:35:30.947 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+18:35:31.075 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+18:35:31.664 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+18:35:31.877 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+18:35:33.330 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+18:36:05.257 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+18:36:05.398 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+18:36:05.562 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+18:36:06.070 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+18:36:06.337 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+18:36:07.877 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+18:36:08.005 [main] INFO  c.f.p.DeliveryOrderDetailPages - The Geo Location Permission Modal is displayed
+18:36:08.158 [main] INFO  c.f.p.DeliveryOrderDetailPages - While Using The App option is selected
+18:36:09.417 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time Modal is displayed
+18:36:09.593 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time option is selected
+18:36:12.908 [main] INFO  c.f.p.DeliveryOrderDetailPages - Sorry You Are Out Of The Delivery Range Modal is diplayed
+18:36:13.072 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Change To PickUp Button is Displayed
+18:36:13.234 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Try Another Address Button is Displayed
+18:36:14.389 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+18:36:14.657 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Find My Location Buttion is Displayed
+18:37:11.654 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+18:37:11.771 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+18:37:11.938 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+18:37:12.581 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+18:37:12.812 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+18:37:14.287 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+18:37:14.413 [main] INFO  c.f.p.DeliveryOrderDetailPages - The Geo Location Permission Modal is displayed
+18:37:14.563 [main] INFO  c.f.p.DeliveryOrderDetailPages - While Using The App option is selected
+18:37:15.809 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time Modal is displayed
+18:37:16.017 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time option is selected
+18:37:20.764 [main] INFO  c.f.p.DeliveryOrderDetailPages - Sorry You Are Out Of The Delivery Range Modal is diplayed
+18:37:20.915 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Change To PickUp Button is Displayed
+18:37:21.110 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Try Another Address Button is Displayed
+18:37:22.315 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+18:37:22.576 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Find My Location Buttion is Displayed
+18:38:28.202 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+18:38:28.319 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+18:38:28.471 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+18:38:29.123 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+18:38:29.375 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+18:38:30.944 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+18:38:46.507 [main] INFO  c.f.p.DeliveryOrderDetailPages - DOES THIS ADDRESS LOOK CORRECT? is not Displayed
+18:38:59.797 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+18:38:59.933 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+18:39:00.106 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+18:39:00.699 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+18:39:00.914 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+18:39:02.394 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+18:39:26.186 [main] INFO  c.f.p.DeliveryOrderDetailPages - DOES THIS ADDRESS LOOK CORRECT? is not Displayed
+18:39:38.859 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+18:39:38.986 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+18:39:39.167 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+18:39:39.863 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+18:39:40.097 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+18:39:41.517 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+18:39:41.606 [main] INFO  c.f.p.DeliveryOrderDetailPages - The Geo Location Permission Modal is displayed
+18:39:41.746 [main] INFO  c.f.p.DeliveryOrderDetailPages - While Using The App option is selected
+18:39:43.057 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time Modal is displayed
+18:39:43.194 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time option is selected
+18:39:47.707 [main] INFO  c.f.p.DeliveryOrderDetailPages - Sorry You Are Out Of The Delivery Range Modal is diplayed
+18:39:47.833 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Change To PickUp Button is Displayed
+18:39:48.004 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Try Another Address Button is Displayed
+18:39:49.227 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+18:39:49.555 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Find My Location Buttion is Displayed
+17:04:33.409 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:04:33.573 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:04:33.735 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:04:34.817 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:04:35.110 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:04:36.674 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+17:05:09.908 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:05:10.037 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:05:10.195 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:05:10.846 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:05:11.140 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:05:12.533 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+17:05:46.482 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:05:46.628 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:05:46.801 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:05:47.579 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:05:47.789 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:05:49.254 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+17:05:49.370 [main] INFO  c.f.p.DeliveryOrderDetailPages - The Geo Location Permission Modal is displayed
+17:05:49.489 [main] INFO  c.f.p.DeliveryOrderDetailPages - While Using The App option is selected
+17:05:50.772 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time Modal is displayed
+17:05:50.918 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time option is selected
+17:07:08.176 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:07:08.267 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:07:08.372 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:07:08.913 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:07:09.107 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:07:10.548 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+17:07:10.649 [main] INFO  c.f.p.DeliveryOrderDetailPages - The Geo Location Permission Modal is displayed
+17:07:10.787 [main] INFO  c.f.p.DeliveryOrderDetailPages - While Using The App option is selected
+17:07:12.078 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time Modal is displayed
+17:07:12.260 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time option is selected
+17:14:59.259 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:14:59.421 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:14:59.624 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:15:00.380 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:15:00.670 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:15:02.197 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+17:15:08.480 [main] INFO  c.f.p.DeliveryOrderDetailPages - The Geo Location Permission Modal is displayed
+17:15:08.634 [main] INFO  c.f.p.DeliveryOrderDetailPages - While Using The App option is selected
+17:15:09.877 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time Modal is displayed
+17:15:10.102 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time option is selected
+17:18:24.465 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:18:24.613 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:18:24.781 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:18:25.409 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:18:25.650 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:18:27.125 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+17:21:34.559 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:21:34.728 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:21:34.930 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:21:35.696 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:21:36.544 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:21:38.090 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+17:22:11.523 [main] INFO  c.f.p.DeliveryOrderDetailPages - The Geo Location Permission Modal is displayed
+17:22:12.980 [main] INFO  c.f.p.DeliveryOrderDetailPages - While Using The App option is selected
+17:22:18.958 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time Modal is displayed
+17:22:20.386 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time option is selected
+17:24:54.453 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:24:54.560 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:24:54.719 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:24:55.376 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:24:55.617 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:24:56.981 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+17:24:57.101 [main] INFO  c.f.p.DeliveryOrderDetailPages - The Geo Location Permission Modal is displayed
+17:24:57.279 [main] INFO  c.f.p.DeliveryOrderDetailPages - While Using The App option is selected
+17:24:59.077 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time Modal is displayed
+17:24:59.212 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time option is selected
+17:25:03.455 [main] INFO  c.f.p.DeliveryOrderDetailPages - Sorry You Are Out Of The Delivery Range Modal is diplayed
+17:25:03.618 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Change To PickUp Button is Displayed
+17:25:03.819 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Try Another Address Button is Displayed
+17:25:05.334 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+17:25:05.663 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Find My Location Buttion is Displayed
+17:27:25.475 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:27:25.583 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:27:25.730 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:27:26.324 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:27:26.552 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:27:28.075 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+17:28:01.448 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:28:01.585 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:28:01.768 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:28:02.422 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:28:02.734 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:28:04.288 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+17:28:37.891 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:28:37.988 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:28:38.164 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:28:38.967 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:28:39.188 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:28:40.685 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+17:28:40.806 [main] INFO  c.f.p.DeliveryOrderDetailPages - The Geo Location Permission Modal is displayed
+17:28:40.926 [main] INFO  c.f.p.DeliveryOrderDetailPages - While Using The App option is selected
+17:28:42.204 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time Modal is displayed
+17:28:42.334 [main] INFO  c.f.p.DeliveryOrderDetailPages - Click Only This Time option is selected
+17:28:46.133 [main] INFO  c.f.p.DeliveryOrderDetailPages - Sorry You Are Out Of The Delivery Range Modal is diplayed
+17:28:46.268 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Change To PickUp Button is Displayed
+17:28:46.411 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Try Another Address Button is Displayed
+17:28:47.626 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+17:28:47.955 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Find My Location Buttion is Displayed
+17:29:37.074 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:29:37.217 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:29:37.373 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:29:38.037 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:29:38.251 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:29:39.813 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+17:30:13.628 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:30:13.767 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:30:13.917 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:30:14.632 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:30:14.910 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:30:16.517 [main] INFO  c.f.p.DeliveryOrderDetailPages - Delivery Address Header is Displayed
+17:30:49.452 [main] INFO  c.f.p.DeliveryOrderDetailPages - Select Location Header is Displayed
+17:30:49.593 [main] INFO  c.f.p.DeliveryOrderDetailPages - Back Arrow is Displayed
+17:30:49.779 [main] INFO  c.f.p.DeliveryOrderDetailPages - Map Icon is Displayed
+17:30:50.405 [main] INFO  c.f.p.DeliveryOrderDetailPages - Pickup Tab is Displayed
+17:30:50.615 [main] INFO  c.f.p.DeliveryOrderDetailPages -  Enable Location Services Button is Displayed
+17:30:52.082 [main] INFO  c.f.p.DeliveryOrderDetailPages - Verify Geo Location Permission Modal is Displayed
+17:30:52.196 [main] INFO  c.f.p.DeliveryOrderDetailPages - The Geo Location Permission Modal is displayed
+17:30:52.327 [main] INFO  c.f.p.DeliveryOrderDetailPages - While Using The App option is selected
+13:58:44.874 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+13:58:44.912 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+14:00:08.715 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+14:00:08.755 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+14:00:20.597 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+14:00:20.631 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+14:03:32.655 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+14:03:32.692 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+14:08:15.531 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+14:08:15.571 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+14:12:17.375 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+14:12:17.412 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:02:56.390 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+15:02:56.428 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:06:17.633 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+15:06:17.671 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:12:01.512 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+15:12:01.553 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:45:13.835 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+15:45:13.872 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:49:47.226 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+15:49:47.265 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:51:12.509 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+15:51:12.548 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:19:01.964 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+18:19:01.966 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:21:17.526 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+18:21:17.556 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:23:48.849 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+18:23:48.879 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:25:38.535 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+18:25:38.543 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:26:03.878 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+18:26:03.886 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:51:38.204 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+18:51:38.213 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:56:44.429 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while parsing a block collection
+ in 'reader', line 30, column 4:
+       - platformName: android
+       ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 31, column 5:
+        deviceName: Google Pixel 7 Pro
+        ^
+.
+18:56:44.438 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
