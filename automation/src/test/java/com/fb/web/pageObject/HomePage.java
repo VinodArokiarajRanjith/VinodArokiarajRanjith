@@ -68,8 +68,7 @@ public class HomePage extends Utilities{
 	private WebElement txt_NoSmartPhone;
 	@FindBy(id="link_Accessibility")
 	private WebElement link_Accessibility;
-	@FindBy(id="link_AnimalWelfare")
-	private WebElement link_AnimalWalfare;
+
 
 	//......Hero Image locators.......
 	@FindBy (xpath="//span[@data-testid='text_welcome']")
